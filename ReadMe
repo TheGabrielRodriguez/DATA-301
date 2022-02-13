@@ -1,0 +1,2 @@
+Implemented KNN and Naive Bayes and applied these ML algorithms to heart disease data sets found on kaggle; also used PCA to find optimal RVs. Compared the accuracy of this two models with the results of other
+approaches: Neural Networks, K means  clustering, random forests, etc. Displayed the results using matplotlib for final Data Science project. Received 100/100 on the final project grade.
